@@ -1,0 +1,6 @@
+{
+  "name": "NEXT GEN - لوجستيك ونقل المغرب",
+  "description": "منصة النقل والشحن والتوصيل الموحدة بالمغرب - تتبع الشحنات، فضاء السائقين، طلبات الكوليات، وإدارة الأسطول بكازا، طنجة، مراكش وجميع المدن",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
